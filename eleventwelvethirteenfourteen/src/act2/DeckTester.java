@@ -11,6 +11,7 @@ public class DeckTester {
 	 * The main method in this class checks the Deck operations for consistency.
 	 *	@param args is not used.
 	 */
+	// Instance Variables
 	static String[] onea = {"1", "2", "3"};
 	static String[] twoa = {"2", "3", "4"};
 	static String[] threea = {"4", "2", "6"};
